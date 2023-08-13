@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mr-raOne
+- 👋 Hi, I’m @mr.raÖne
 - 👀 I’m interested in Cyber security
 - 🌱 I’m currently learning react js; android development & pentesting
 - 💞️ I’m looking to collaborate on Bug Bonty Program
