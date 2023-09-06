@@ -13,13 +13,13 @@
   <code><a href="https://www.youtube.com/c/rrr"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/mr-raOne/mr-raOne/blob/21abc81e87f977e051b06b11b95e3a216e0eae5a/youtube.svg"> YouTube</a></code> -->
 </h5>
 
-I am working as a Jr. Front End Devloper with significant expertise in the Web application, Android applications & Network Penetration Testing.I do bug bounties.
+I am working as a Jr. Front End Devloper with significant expertise in the Web application, Android applications & Network Penetration Testing. I do Bug Bounties.
 
 Skills:
 
   Penetration Testing - Web Application | Mobile (Android) | Internal & External Network
   
-  Devlopment - Web Application | Web Sites |
+  Devlopment - Web Application | React & Next.Js Web Sites
 
   
 - 👋 Hi, I’m @mr.raÖne
