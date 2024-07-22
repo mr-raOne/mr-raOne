@@ -6,7 +6,7 @@
 <h3 align="center">Let's Connect <img src="https://github.com/mr-raOne/mr-raOne/blob/21a714be4fe1fe9e1b60e42d587b97369d706fa8/handshake.gif" height="32px"></h3>
 <h5 align="center">
   <code>
-    <a href="www.linkedin.com/in/rohit-gawade-b938b41aa" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/mr-raOne/mr-raOne/blob/21abc81e87f977e051b06b11b95e3a216e0eae5a/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/rohit-gawade-b938b41aa" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/mr-raOne/mr-raOne/blob/21abc81e87f977e051b06b11b95e3a216e0eae5a/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://twitter.com/mr_cybOr9?t=g7D-P5x5ApZCK7esAp1I9w&s=08" title="Twitter Profile"><img height="22" width="22" src="https://github.com/mr-raOne/mr-raOne/blob/21abc81e87f977e051b06b11b95e3a216e0eae5a/twitter.svg"> Twitter</a></code>
  <!-- <code><a href="https://www.instagram.com/rrr/" title="Instagram Profile"><img height="22" width="22" src="https://github.com/mr-raOne/mr-raOne/blob/21abc81e87f977e051b06b11b95e3a216e0eae5a/instagram.svg"> Instagram</a></code>
   <code><a href="https://www.twitch.tv/rrr"><img alt="Twitch" title="Twitch" height="22" width="22" src="https://github.com/mr-raOne/mr-raOne/blob/21abc81e87f977e051b06b11b95e3a216e0eae5a/twitch.svg"> Twitch</a></code>
